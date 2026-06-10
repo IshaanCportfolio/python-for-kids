@@ -11,8 +11,8 @@ One chapter at a time — examples, exercises, and puzzles.
 
 ## Progress
 
-- [ ] Chapter 1: Not All Snakes Slither
-- [ ] Chapter 2: Calculations and Variables
+- [x] Chapter 1: Not All Snakes Slither
+- [x] Chapter 2: Calculations and Variables
 - [ ] Chapter 3: Strings, Lists, Tuples, and Dictionaries
 - [ ] Chapter 4: Drawing with Turtles
 - [ ] Chapter 5: Asking Questions with if and else
@@ -33,6 +33,9 @@ One chapter at a time — examples, exercises, and puzzles.
 ## What I learned
 
 (One or two sentences per chapter — the most surprising or useful thing.)
+
+CH 01 - I learned how to use the python shell and editor, and how to run a program.
+CH 02 - I learned how to do simple equations, order of operations, and about variables to label or store information.
 
 ## Final projects
 
