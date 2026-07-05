@@ -5,30 +5,30 @@ One chapter at a time — examples, exercises, and puzzles.
 
 ## Tools
 
-- Python 3 (via Thonny)
-- Thonny IDE
-- Git + GitHub Desktop
+* Python 3 (via Thonny)
+* Thonny IDE
+* Git + GitHub Desktop
 
 ## Progress
 
-- [x] Chapter 1: Not All Snakes Slither
-- [x] Chapter 2: Calculations and Variables
-- [ ] Chapter 3: Strings, Lists, Tuples, and Dictionaries
-- [ ] Chapter 4: Drawing with Turtles
-- [ ] Chapter 5: Asking Questions with if and else
-- [ ] Chapter 6: Going Loopy
-- [ ] Chapter 7: Recycling Your Code with Functions and Modules
-- [ ] Chapter 8: How to Use Classes and Objects
-- [ ] Chapter 9: Python's Built-In Functions
-- [ ] Chapter 10: Useful Python Modules
-- [ ] Chapter 11: More Turtle Graphics
-- [ ] Chapter 12: Using tkinter for Better Graphics
-- [ ] Chapter 13: Beginning Your First Game: Bounce!
-- [ ] Chapter 14: Finishing Your First Game: Bounce!
-- [ ] Chapter 15: Creating Graphics for the Mr. Stick Man Game
-- [ ] Chapter 16: Developing the Mr. Stick Man Game
-- [ ] Chapter 17: Creating Mr. Stick Man
-- [ ] Chapter 18: Completing the Mr. Stick Man Game
+* \[x] Chapter 1: Not All Snakes Slither
+* \[x] Chapter 2: Calculations and Variables
+* \[x] Chapter 3: Strings, Lists, Tuples, and Dictionaries
+* \[ ] Chapter 4: Drawing with Turtles
+* \[ ] Chapter 5: Asking Questions with if and else
+* \[ ] Chapter 6: Going Loopy
+* \[ ] Chapter 7: Recycling Your Code with Functions and Modules
+* \[ ] Chapter 8: How to Use Classes and Objects
+* \[ ] Chapter 9: Python's Built-In Functions
+* \[ ] Chapter 10: Useful Python Modules
+* \[ ] Chapter 11: More Turtle Graphics
+* \[ ] Chapter 12: Using tkinter for Better Graphics
+* \[ ] Chapter 13: Beginning Your First Game: Bounce!
+* \[ ] Chapter 14: Finishing Your First Game: Bounce!
+* \[ ] Chapter 15: Creating Graphics for the Mr. Stick Man Game
+* \[ ] Chapter 16: Developing the Mr. Stick Man Game
+* \[ ] Chapter 17: Creating Mr. Stick Man
+* \[ ] Chapter 18: Completing the Mr. Stick Man Game
 
 ## What I learned
 
@@ -36,9 +36,14 @@ One chapter at a time — examples, exercises, and puzzles.
 
 CH 01 - I learned how to use the python shell and editor, and how to run a program.
 CH 02 - I learned how to do simple equations, order of operations, and about variables to label or store information.
+CH 03 - I learned how to use strings, lists, tuples and dictionaries and what they do.
+
+
 
 ## Final projects
 
 By the end of the book:
-- **Bounce!** — a Pong-style game
-- **Mr. Stick Man Races for the Exit** — a platformer
+
+* **Bounce!** — a Pong-style game
+* **Mr. Stick Man Races for the Exit** — a platformer
+
