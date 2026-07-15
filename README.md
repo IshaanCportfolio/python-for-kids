@@ -35,10 +35,18 @@ One chapter at a time — examples, exercises, and puzzles.
 (One or two sentences per chapter — the most surprising or useful thing.)
 
 CH 01 - I learned how to use the python shell and editor, and how to run a program.
+
+
 CH 02 - I learned how to do simple equations, order of operations, and about variables to label or store information.
+
+
 CH 03 - I learned how to use strings, lists, tuples and dictionaries and what they do.
 
+
+
 CH 04 - I learned how to use the turtle module and what it does. It is used for drawing computer graphics on a canvas by using simple commands of navigation.
+
+
 
 
 
