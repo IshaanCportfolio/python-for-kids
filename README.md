@@ -37,7 +37,9 @@ One chapter at a time — examples, exercises, and puzzles.
 CH 01 - I learned how to use the python shell and editor, and how to run a program.
 
 
+
 CH 02 - I learned how to do simple equations, order of operations, and about variables to label or store information.
+
 
 
 CH 03 - I learned how to use strings, lists, tuples and dictionaries and what they do.
@@ -47,6 +49,8 @@ CH 03 - I learned how to use strings, lists, tuples and dictionaries and what th
 CH 04 - I learned how to use the turtle module and what it does. It is used for drawing computer graphics on a canvas by using simple commands of navigation.
 
 
+
+CH 05 - I learned 'if' statements can create blocks of code. The code is run when conditions are true. You can add different conditions using 'elif'. You use 'else' when none of the condition are true. I combined conditions using 'and' and 'or' to check if numbers fall in a range. I change strings into numbers using 'int', 'str' and 'float'. Lastly, I learned that 'None' can reset variables to their initial empty state.
 
 
 
