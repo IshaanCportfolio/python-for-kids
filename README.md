@@ -15,7 +15,7 @@ One chapter at a time — examples, exercises, and puzzles.
 * \[x] Chapter 2: Calculations and Variables
 * \[x] Chapter 3: Strings, Lists, Tuples, and Dictionaries
 * \[x] Chapter 4: Drawing with Turtles
-* \[ ] Chapter 5: Asking Questions with if and else
+* \[x] Chapter 5: Asking Questions with if and else
 * \[ ] Chapter 6: Going Loopy
 * \[ ] Chapter 7: Recycling Your Code with Functions and Modules
 * \[ ] Chapter 8: How to Use Classes and Objects
