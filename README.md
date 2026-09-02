@@ -30,9 +30,15 @@ One chapter at a time — examples, exercises, and puzzles.
 * \[ ] Chapter 17: Creating Mr. Stick Man
 * \[ ] Chapter 18: Completing the Mr. Stick Man Game
 
+## 
+
 ## What I learned
 
+
+
 (One or two sentences per chapter — the most surprising or useful thing.)
+
+
 
 CH 01 - I learned how to use the python shell and editor, and how to run a program.
 
@@ -53,6 +59,10 @@ CH 04 - I learned how to use the turtle module and what it does. It is used for 
 CH 05 - I learned 'if' statements can create blocks of code. The code is run when conditions are true. You can add different conditions using 'elif'. You use 'else' when none of the condition are true. I combined conditions using 'and' and 'or' to check if numbers fall in a range. I change strings into numbers using 'int', 'str' and 'float'. Lastly, I learned that 'None' can reset variables to their initial empty state.
 
 
+
+I learnt about three kinds of loops. For loops, While loops and Semi-Eternal loops. For loop are helpful to avoid repeating code over and over. You can also embed a loop within a loop. A For loop has a specific length(indoor staircase). A While loop is used for if you don't know when the loop needs to stop ahead of time(staircase up a mountain with unknown conditions such as getting tired or bad weather). A Semi-Eternal loop could continue forever until something in the code happens to break out of it. We use "break" to stop looping.
+
+## 
 
 ## Final projects
 
